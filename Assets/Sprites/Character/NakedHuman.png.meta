@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: 6cf5256edba979e498198e1b5361b53f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4961435602288882584
+    second: NakedHuman_0
+  - first:
+      213: -7768181459066627714
+    second: NakedHuman_1
+  - first:
+      213: 4002500931191560815
+    second: NakedHuman_2
+  - first:
+      213: 4054366680506005039
+    second: NakedHuman_3
+  - first:
+      213: -5777960782633377365
+    second: NakedHuman_4
+  - first:
+      213: 7932838130023287726
+    second: NakedHuman_5
+  - first:
+      213: 4192737539505202788
+    second: NakedHuman_6
+  - first:
+      213: 6448858932030285673
+    second: NakedHuman_7
+  - first:
+      213: 2034406827612622719
+    second: NakedHuman_8
+  - first:
+      213: 7876593047776081044
+    second: NakedHuman_9
+  - first:
+      213: 8980089578429925921
+    second: NakedHuman_10
+  - first:
+      213: 7571017660546159259
+    second: NakedHuman_11
+  - first:
+      213: -5266922954220056498
+    second: NakedHuman_12
+  - first:
+      213: -9027057335286011020
+    second: NakedHuman_13
+  - first:
+      213: 6633176078700069865
+    second: NakedHuman_14
+  - first:
+      213: -8007568537753611326
+    second: NakedHuman_15
+  - first:
+      213: 8319368441265811133
+    second: NakedHuman_16
+  - first:
+      213: 5900029027619813136
+    second: NakedHuman_17
+  - first:
+      213: 806768851668280814
+    second: NakedHuman_0
+  - first:
+      213: -1934002817002043800
+    second: NakedHuman_1
+  - first:
+      213: 7161714626773321433
+    second: NakedHuman_2
+  - first:
+      213: -2277895633337454819
+    second: NakedHuman_3
+  - first:
+      213: -1209631081665433699
+    second: NakedHuman_4
+  - first:
+      213: -5701291423818933142
+    second: NakedHuman_5
+  - first:
+      213: -2524450409149799823
+    second: NakedHuman_6
+  - first:
+      213: 6846843376275505722
+    second: NakedHuman_7
+  - first:
+      213: -491828612404664067
+    second: NakedHuman_8
+  - first:
+      213: -256654826431625111
+    second: NakedHuman_9
+  - first:
+      213: -6796329964226559224
+    second: NakedHuman_10
+  - first:
+      213: 7444554921984245458
+    second: NakedHuman_11
+  - first:
+      213: 8228206049528284719
+    second: NakedHuman_12
+  - first:
+      213: -6828398760924419144
+    second: NakedHuman_13
+  - first:
+      213: 7423336564700849078
+    second: NakedHuman_14
+  - first:
+      213: 3125838812229089201
+    second: NakedHuman_15
+  - first:
+      213: 3404645121703685558
+    second: NakedHuman_16
+  - first:
+      213: 8574245218373959991
+    second: NakedHuman_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NakedHuman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5a9830ff7323b00800000000000000
+      internalID: 806768851668280814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8660df94faa0925e0800000000000000
+      internalID: -1934002817002043800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 49
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d60b873285836360800000000000000
+      internalID: 7161714626773321433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 49
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fe1838df94360e0800000000000000
+      internalID: -2277895633337454819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 49
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f6f0ca0f6863fe0800000000000000
+      internalID: -1209631081665433699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 49
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c9a4228a1f0e0b0800000000000000
+      internalID: -5701291423818933142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172698d5ab957fcd0800000000000000
+      internalID: -2524450409149799823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 25
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3243ab46cfd40f50800000000000000
+      internalID: 6846843376275505722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 25
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df82f3b9b7cac29f0800000000000000
+      internalID: -491828612404664067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 25
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96847a09bcd207cf0800000000000000
+      internalID: -256654826431625111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 25
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803cee1f7e59ea1a0800000000000000
+      internalID: -6796329964226559224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 25
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deb1c3324f505760800000000000000
+      internalID: 7444554921984245458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f268ad0aec5703270800000000000000
+      internalID: 8228206049528284719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe16e5187ac31a0800000000000000
+      internalID: -6828398760924419144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a92b664df40760800000000000000
+      internalID: 7423336564700849078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b73b0c96d5316b20800000000000000
+      internalID: 3125838812229089201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd2a6913babf3f20800000000000000
+      internalID: 3404645121703685558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NakedHuman_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731854a0996ddf670800000000000000
+      internalID: 8574245218373959991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
